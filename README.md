@@ -15,7 +15,9 @@ Provide a short description explaining the what, why, and how of your project. U
 Select the hour of the day and type what you want done for that day and click save to save it. the gray is past time, red for current, and green for futures hours.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    [link to github](https://github.com/somphangchanleuxay)
+    [link to live page](https://somphangchanleuxay.github.io/workdaycalendar/)
+    [link to image](images/Image%2012-4-23%20at%203.05 PM.jpg)
     ```
 
 
